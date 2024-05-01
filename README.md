@@ -5,7 +5,9 @@
 _Full-stack enthusiast_ and _passionate about Web3_
 
 <h3> Enviroment </h3>
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ![VsCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 <h3>Main Languages <img align='center' width='2%' src="https://user-images.githubusercontent.com/38537285/154124084-14d4e935-083d-4c18-85e5-62f1340c56fa.gif" />
