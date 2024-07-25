@@ -56,7 +56,7 @@ _Full-stack enthusiast_ and _passionate about Web3_
  </div>
  
  ## Technologies I am Learning👨‍💻
- 
+ ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -64,7 +64,7 @@ _Full-stack enthusiast_ and _passionate about Web3_
 
 ## Connect with me 💬
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maksym-yuzva-a7822622b/" target="_blank">
+<a href="https://www.linkedin.com/in/maksym-yuzva-a7822622b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>
