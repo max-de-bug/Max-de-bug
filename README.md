@@ -2,7 +2,7 @@
 
 # Hi there, I'm Maksym! 👋
 
-_Full-stack enthusiast_ and _passionate about Web3_
+_Full-stack developer_ and _passionate about Web3_
 
 <h3> Enviroment </h3>
 
