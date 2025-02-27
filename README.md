@@ -1,6 +1,6 @@
 ## Getting Started
 
-# Hi there, I'm Maksym! 👋
+# Hi there, I'm Connor! 👋
 
 _Full-stack developer_ and _passionate about Web3_
 
